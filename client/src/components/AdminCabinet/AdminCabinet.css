@@ -1,0 +1,21 @@
+.admin-menu {
+  align-self: center;
+  margin: 25px 0;
+}
+
+.admin-menu a {
+  color: black;
+  margin: 0 20px;
+}
+
+.admin-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.reservation-admin-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

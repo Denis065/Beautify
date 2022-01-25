@@ -1,0 +1,17 @@
+.about-block {
+  display: flex;
+}
+
+.about-block img {
+  width: 35vw;
+  margin: 50px 100px 50px 0;
+}
+
+.about-text {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 0 0 100px;
+  font-size: 20px;
+}

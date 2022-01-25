@@ -1,0 +1,4 @@
+export const mastersAT = {
+  INIT_MASTERS: 'INIT_MASTERS',
+  GET_FETCH_MASTERS: 'GET_FETCH_MASTERS',
+}

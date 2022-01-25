@@ -1,0 +1,46 @@
+a {
+  cursor: pointer;
+  transition: .2s;
+}
+
+.reservation a:hover {
+  color:rgb(68, 177, 68);
+}
+
+h3 {
+  color:rgb(72, 191, 72);
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.reservation {
+  display: flex;
+  flex-direction: column;
+}
+
+.reservation h2 {
+  text-align: center;
+}
+
+.reservation-row-1, .reservation-row-2 {
+  display: flex;
+}
+
+.reserv-category, .reserv-services, .reserv-masters {
+  width: 20vw;
+  padding: 20px;
+}
+
+.reservation-row-2{
+  justify-content: center;
+}
+
+.reserv-form button {
+  display: block;
+  width: 100%;
+  margin: 25px 0 0 0;
+}
+
+.reserv-form p {
+  margin: 10px 0;
+}

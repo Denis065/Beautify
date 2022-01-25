@@ -1,0 +1,15 @@
+.change-pass-admin-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.change-pass-admin-form input {
+  margin: 5px 0;
+}
+
+.admin-change-pass-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

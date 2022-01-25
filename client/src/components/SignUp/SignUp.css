@@ -1,0 +1,13 @@
+.sign-up-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sign-up-form button {
+  width: 100%;
+}
+
+.max {
+  visibility: hidden;
+}

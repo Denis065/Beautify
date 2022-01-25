@@ -1,0 +1,16 @@
+.admin-reserv-item {
+  width: 22vw;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  padding: 10px 20px;
+  margin: 20px;
+  line-height: 30px;
+}
+
+.admin-reserv-item button {
+  margin: 5px;
+}
+
+.admin-reserv-item input {
+  width: 100%;
+  padding: 10px 0 10px 5px;
+}

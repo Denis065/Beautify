@@ -1,0 +1,28 @@
+.main-nav {
+  display: flex;
+  margin-top: 30px;
+}
+
+.main-nav a {
+  color: black;
+  text-transform: uppercase;
+  transition: .2s;
+  cursor: pointer;
+}
+
+.main-nav a:hover {
+  color: #48bf48;
+}
+
+.main-nav li {
+  list-style: none;
+  padding: 0 10px;
+}
+
+.main-nav ul {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 100vw;
+  padding: 0;
+}
